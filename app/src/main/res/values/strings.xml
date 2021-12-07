@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SNS</string>
+    <string name="naver_client_id">Ifa_RXXPjLeaSuKEOYsO</string>
+    <string name="naver_client_secret">8FqMbREWNa</string>
+    <string name="kakao_app_key">4309433de6aa50ed57287c86ce90b7af</string>
+</resources>
